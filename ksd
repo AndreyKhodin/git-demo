@@ -1,0 +1,49 @@
+[33mcommit 8c561ef1b57287d13f27132f337c2d2a79b84fa7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Andrei Khodin <khodin9@gmail.com>
+Date:   Sun Oct 31 12:57:59 2021 +0300
+
+    Revert "delete sebt"
+    
+    This reverts commit 94f3c66c68d01f322440ebc4504cb3f420a81def.
+
+[33mcommit 94f3c66c68d01f322440ebc4504cb3f420a81def[m
+Author: Andrei Khodin <khodin9@gmail.com>
+Date:   Sun Oct 31 12:39:03 2021 +0300
+
+    delete sebt
+
+[33mcommit fe7e1b6e394cd78e18c89a4ae22c34783ab37e83[m
+Author: Andrei Khodin <khodin9@gmail.com>
+Date:   Sun Oct 31 07:53:01 2021 +0300
+
+    add second sentence
+
+[33mcommit cdaebce62025cce4af4411ae0daf8656c7211d34[m
+Author: Andrei Khodin <khodin9@gmail.com>
+Date:   Fri Oct 29 10:07:55 2021 +0300
+
+    new couplet
+
+[33mcommit 13841aa336aea3509244c5eae1ade96398e65306[m
+Author: Andrei Khodin <khodin9@gmail.com>
+Date:   Thu Oct 28 18:44:05 2021 +0300
+
+    + 1 senten
+
+[33mcommit d5ffdb38f2bd52400c243592891ac722628e1025[m
+Author: AndreyKhodin <55688017+AndreyKhodin@users.noreply.github.com>
+Date:   Thu Oct 28 18:31:33 2021 +0300
+
+    add more two sentences
+
+[33mcommit 990f23c9bf92660835cea75d538e2e1f975233a8[m
+Author: Andrei Khodin <khodin9@gmail.com>
+Date:   Thu Oct 28 18:26:14 2021 +0300
+
+    add first 2 lines in the song
+
+[33mcommit 56cff52607fa48c97e41e0740a27077852ce9f94[m
+Author: AndreyKhodin <55688017+AndreyKhodin@users.noreply.github.com>
+Date:   Thu Oct 28 18:19:09 2021 +0300
+
+    Initial commit
